@@ -76,5 +76,11 @@ export const prompts = [
     title: "「わからない」を許す",
     content: "不明な場合は『わかりません』と明記して",
     tags: ["Accuracy", "Honesty", "Hallucination Prevention"]
+  },
+  {
+    id: 16,
+    title: "日中関係の定量評価",
+    content: "高市政権前後の日中関係を定量評価して",
+    tags: ["Politics", "Analysis", "International Relations"]
   }
 ];
